@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "date": "07/09/2022",
+      "title": "Ecommerce App",
+      "description": "This is a e-commerce web app built with the MERN stack, offers user authentication, product search and filtering, rating and reviews, and an admin dashboard for efficient product management.",
+      "url": "https://ecommerce-app-six-xi.vercel.app",
+      "imgSrc": "https://user-images.githubusercontent.com/99419751/251677069-a94589e0-d27c-436b-9d2d-a99f489e3cee.png"
+    },
+    {
+      "date": "07/10/2022",
+      "title": "TECHY STAR",
+      "description": "Techy Star landing page created using ReactJS, showcasing cutting-edge technology and innovation in a sleek and modern design.",
+      "url": "https://techystarapp.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "8/11/2022",
+      "title": "VIDEO HUB",
+      "description": "Video hub landing page built with ReactJS, providing a centralized platform for seamless access to a diverse range of videos",
+      "url": "https://video-hub-app.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "15/12/2022",
+      "title": "XCrypto",
+      "description": "Intuitive crypto app showcasing coin details and exchange information, empowering users to explore and analyze diverse cryptocurrencies effortlessly.",
+      "url": "https://crypto-app-gray-nine.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "17/02/2023",
+      "title": "E-Course Registration",
+      "description": "Streamlined e-course registration web app, simplifying the process by allowing users to submit and manage their registration details seamlessly.",
+      "url": "https://e-course-registration-page.vercel.app",
+      "imgSrc": "https://github-production-user-asset-6210df.s3.amazonaws.com/99419751/253610636-15096741-7ee7-4d7a-a5d9-0e84efd543e9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230714T152145Z&X-Amz-Expires=300&X-Amz-Signature=effcdea78c84f407fe5dadf12ef5d32c665d8d0b8a160b175763e2a7340f35fc&X-Amz-SignedHeaders=host&actor_id=99419751&key_id=0&repo_id=573550265"
+    },
+    {
+      "date": "20/03/2023",
+      "title": "PORTFOLIO",
+      "description": "Interactive portfolio displaying developer's skills and work, featuring visually stunning animations and captivating visuals to showcase expertise.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
